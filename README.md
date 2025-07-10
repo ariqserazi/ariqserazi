@@ -10,8 +10,8 @@ I’m a Rutgers-trained Software Engineer passionate about **Flutter**, **AWS se
 
 ![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=0e75b6)
 
-![Ariq’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true)
+![Ariq’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ariqserazi&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariqserazi&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ariqserazi&theme=dark)](https://git.io/streak-stats)
