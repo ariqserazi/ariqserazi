@@ -1,17 +1,74 @@
-# Hey, I’m Ariq 👋
+<!--
+  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+  ┃   Welcome to Ariq’s GitHub 🌟     ┃
+  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+-->
 
-I’m a Rutgers-trained Software Engineer passionate about **Flutter**, **AWS serverless**, and building clean, scalable full-stack apps.  
-🌱 I’m learning **system design** & **cloud architecture**  
-💻 Currently building **Trackwise**: a Flutter expense tracker + GraphQL/AWS backend  
-🎯 Daily Byte enthusiast—solving 3 DSA problems/day  
-📫 Let’s connect: [LinkedIn](https://linkedin.com/in/ariqserazi) · [Portfolio](https://ariq.dev)
+<h1 align="center">👋 Hey there, I'm Ariq Serazi</h1>
+<p align="center">
+  <em>Rutgers-trained Software Engineer building delightful Flutter & AWS serverless apps</em><br/>
+  <a href="#-what-i'm-working-on">🚧 What I'm Working On</a> •
+  <a href="#%EF%B8%8F-skillset">🛠 Skillset</a> •
+  <a href="#-featured-projects">🚀 Featured Projects</a> •
+  <a href="#📈-github-stats">📈 GitHub Stats</a> •
+  <a href="#-connect">📫 Connect</a>
+</p>
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=0e75b6)
+## 🚧 What I'm Working On
+- **Trackwise**: Flutter expense tracker + GraphQL/AWS backend  
+  <sup><sub>_MVP live at_ [trackwise.app](https://trackwise.app) • Next up: live collaboration & offline sync_</sub></sup>
+- **Daily Byte Routine**: 3 LeetCode-style problems every day to sharpen DSA muscles  
+- **System Design Deep Dive**: Reading _Designing Data-Intensive Applications_ and sketching out distributed system prototypes
 
-![Ariq’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ariqserazi&show_icons=true&theme=radical&count_private=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariqserazi&layout=compact&theme=radical)
+## 🛠 Skillset
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ariqserazi&theme=dark)](https://git.io/streak-stats)
+| Front-End            | Back-End             | Cloud & Infra        | Tools & CI/CD        |
+| -------------------- | -------------------- | -------------------- | -------------------- |
+| Flutter · Dart       | Node.js · GraphQL    | AWS Λ · DynamoDB     | Git · GitHub Actions |
+| React · TypeScript   | Python · Flask       | Docker · Terraform   | VSCode · Postman     |
+
+---
+
+## 🚀 Featured Projects
+
+| Project                          | Tech Stack               | Live/Demo                   |
+| -------------------------------- | ------------------------ | --------------------------- |
+| **Trackwise**                    | Flutter · AWS · GraphQL  | [🏃 trackwise.app](https://trackwise.app) |
+| **ExpenseShare**                 | React · Express · MongoDB| [🔗 repo](https://github.com/ariqserazi/expenseshare) |
+| **Daily Byte CLI**               | Python                   | [🔗 repo](https://github.com/ariqserazi/daily-byte-cli) |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=ariqserazi&color=0e75b6" alt="Profile views" />
+
+  <!-- General Stats -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ariqserazi&show_icons=true&theme=dark" />
+
+  <!-- Top Languages -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariqserazi&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <!-- Streak -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ariqserazi&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/ariqserazi" target="_blank">LinkedIn</a> •
+  <a href="https://ariq.dev" target="_blank">Portfolio</a> •
+  <a href="mailto:ariq@ariq.dev">Email</a>
+</p>
