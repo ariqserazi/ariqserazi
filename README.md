@@ -43,32 +43,9 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=ariqserazi&color=0e75b6" alt="Profile views" />
-
-  <!-- General Stats -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ariqserazi&show_icons=true&theme=dark" />
-
-  <!-- Top Languages -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariqserazi&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <!-- Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ariqserazi&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
 ## 📫 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/ariqserazi" target="_blank">LinkedIn</a> •
-  <a href="https://ariq.dev" target="_blank">Portfolio</a> •
-  <a href="mailto:ariq@ariq.dev">Email</a>
+
 </p>
