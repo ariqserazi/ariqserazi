@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I’m Ariq 👋
 
-<!--
-**ariqserazi/ariqserazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Rutgers-trained Software Engineer passionate about **Flutter**, **AWS serverless**, and building clean, scalable full-stack apps.  
+🌱 I’m learning **system design** & **cloud architecture**  
+💻 Currently building **Trackwise**: a Flutter expense tracker + GraphQL/AWS backend  
+🎯 Daily Byte enthusiast—solving 3 DSA problems/day  
+📫 Let’s connect: [LinkedIn](https://linkedin.com/in/ariqserazi) · [Portfolio](https://ariq.dev)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=0e75b6)
+
+![Ariq’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=dark)](https://git.io/streak-stats)
