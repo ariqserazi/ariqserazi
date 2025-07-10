@@ -10,14 +10,13 @@
   <a href="#-what-i'm-working-on">🚧 What I'm Working On</a> •
   <a href="#%EF%B8%8F-skillset">🛠 Skillset</a> •
   <a href="#-featured-projects">🚀 Featured Projects</a> •
-  <a href="#📈-github-stats">📈 GitHub Stats</a> •
   <a href="#-connect">📫 Connect</a>
 </p>
 
 ---
 
 ## 🚧 What I'm Working On
-- **Trackwise**: Flutter expense tracker + GraphQL/AWS backend  
+- **Trackwise**: Flutter expense tracker + GRPC/AWS backend  
   <sup><sub>_MVP live at_ [trackwise.app](https://trackwise.app) • Next up: live collaboration & offline sync_</sub></sup>
 - **Daily Byte Routine**: 3 LeetCode-style problems every day to sharpen DSA muscles  
 - **System Design Deep Dive**: Reading _Designing Data-Intensive Applications_ and sketching out distributed system prototypes
@@ -28,18 +27,18 @@
 
 | Front-End            | Back-End             | Cloud & Infra        | Tools & CI/CD        |
 | -------------------- | -------------------- | -------------------- | -------------------- |
-| Flutter · Dart       | Node.js · GraphQL    | AWS Λ · DynamoDB     | Git · GitHub Actions |
+| Flutter · Dart       | Node.js · GRPC       | AWS Λ · DynamoDB     | Git · GitHub Actions |
 | React · TypeScript   | Python · Flask       | Docker · Terraform   | VSCode · Postman     |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project                          | Tech Stack               | Live/Demo                   |
-| -------------------------------- | ------------------------ | --------------------------- |
-| **Trackwise**                    | Flutter · AWS · GraphQL  | [🏃 trackwise.app](https://trackwise.app) |
-| **ExpenseShare**                 | React · Express · MongoDB| [🔗 repo](https://github.com/ariqserazi/expenseshare) |
-| **Daily Byte CLI**               | Python                   | [🔗 repo](https://github.com/ariqserazi/daily-byte-cli) |
+| Project                          | Tech Stack                 | Live/Demo                   |
+| -------------------------------- | ---------------------------| --------------------------- |
+| **Trackwise**                    | Flutter · Postgres · GRPC  | [🏃 trackwise.app](https://github.com/ariqserazi/personal_expense_tracker) |
+| **CollabPad**                    | Flutter · Express · MongoDB| [🔗 repo](https://github.com/ariqserazi/expenseshare) |
+
 
 ---
 
