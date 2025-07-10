@@ -43,6 +43,6 @@
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/ariqserazi" target="_blank">LinkedIn</a> •
+  <a href="https://linkedin.com/in/ariq-serazi" target="_blank">LinkedIn</a> •
 
 </p>
