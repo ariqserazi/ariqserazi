@@ -16,8 +16,6 @@
 ---
 
 ## 🚧 What I'm Working On
-- **Trackwise**: Flutter expense tracker + GRPC/AWS backend  
-  <sup><sub>_MVP live at_ [trackwise.app](https://trackwise.app) • Next up: live collaboration & offline sync_</sub></sup>
 - **Daily Byte Routine**: 3 LeetCode-style problems every day to sharpen DSA muscles  
 - **System Design Deep Dive**: Reading _Designing Data-Intensive Applications_ and sketching out distributed system prototypes
 
