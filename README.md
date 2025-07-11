@@ -32,7 +32,7 @@
 
 ## 🚀 Featured Projects
 
-| Project                          | Tech Stack                 | Live/Demo                   |
+| Project                          | Tech Stack                 | Repo                   |
 | -------------------------------- | ---------------------------| --------------------------- |
 | **Trackwise**                    | Flutter · Postgres · GRPC  | [🏃 trackwise.app](https://github.com/ariqserazi/personal_expense_tracker) |
 | **MultiPDF Extractor**           | Python · PyPDF2 · Streamlit · Generative AI| [🔗 repo](https://github.com/ariqserazi/multipdf_extractor) |
