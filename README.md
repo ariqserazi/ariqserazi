@@ -18,6 +18,7 @@
 ## 🚧 What I'm Working On
 - **Daily Byte Routine**: 3 LeetCode-style problems every day to sharpen DSA muscles  
 - **System Design Deep Dive**: Reading _Designing Data-Intensive Applications_ and sketching out distributed system prototypes
+- **CollabPad**: Currently devising a plan to make a collaborative note taking app in notion
 
 ---
 
