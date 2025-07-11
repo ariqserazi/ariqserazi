@@ -36,6 +36,8 @@
 | -------------------------------- | ---------------------------| --------------------------- |
 | **Trackwise**                    | Flutter · Postgres · GRPC  | [🏃 trackwise.app](https://github.com/ariqserazi/personal_expense_tracker) |
 | **CollabPad**                    | Flutter · Express · MongoDB| [🔗 repo](https://github.com/ariqserazi/expenseshare) |
+| **MultiPDF Extractor**           | Python · PyPDF2 · Streamlit · Generative AI| [🔗 repo](https://github.com/ariqserazi/multipdf_extractor) |
+| **Data Structure Projects**      | Java · Algorithms | [🔗 repo](https://github.com/ariqserazi/DataStructureProjects) |
 
 
 ---
