@@ -1,80 +1,122 @@
-<h1 align="center">Hi, I'm Ariq Serazi</h1>
+<h1 align="center">Ariq Serazi</h1>
 
 <p align="center">
-Software engineer from Rutgers University building AI automation systems, cloud applications, and developer tools.
+Software engineer building AI automation systems, cloud applications, and developer tools.
 </p>
 
 <p align="center">
-<a href="https://ariqserazi.com">Portfolio</a> |
-<a href="#current-work">Current Work</a> |
-<a href="#skills">Skills</a> |
-<a href="#projects">Projects</a> |
-<a href="#connect">Connect</a>
+<a href="https://ariqserazi.com">Portfolio</a> •
+<a href="https://linkedin.com/in/ariq-serazi">LinkedIn</a> •
+<a href="https://github.com/ariqserazi?tab=repositories">Projects</a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-AI%20Automation-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Frontend-Flutter%20%7C%20React-1f6feb?style=for-the-badge">
+<img src="https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI-2ea44f?style=for-the-badge">
 </p>
 
 ---
 
-## Current Work
+## About Me
 
-• Practicing data structures and algorithms daily while preparing for software engineering roles  
-• Building **Amin AI**, a collection of automation pipelines that connect language models with external APIs and services  
-• Developing the **MediaWiki Bridge**, a FastAPI service that allows language models to retrieve canon text from MediaWiki based sources  
-• Improving **Trackwise**, a Flutter expense tracking application powered by gRPC and PostgreSQL  
+I am a Rutgers Computer Science graduate focused on building practical systems that connect software engineering with automation and AI.
 
----
+Most of my recent work lives at the intersection of Python, FastAPI, Flutter, cloud infrastructure, and retrieval based AI systems.
 
-## Skills
-
-| Area | Technologies |
-|-----|-------------|
-| Frontend | Flutter, Dart, React, TypeScript |
-| Backend | Python, FastAPI, Node.js, Express |
-| Databases | PostgreSQL, DynamoDB |
-| Cloud | AWS Lambda, API Gateway, Docker |
-| AI Systems | LangChain, Gemini API, vector search pipelines |
-| Tools | Git, GitHub, VS Code, Postman |
+Right now I am focused on strengthening core engineering skills, building stronger public projects, and developing tools that feel production ready.
 
 ---
 
-## Projects
+## What I'm Building
 
 ### Amin AI
 
-AI automation pipelines that connect language models with APIs and structured workflows. Built with Python, FastAPI, and cloud integrations.
-
-Repository  
-https://github.com/ariqserazi
+Automation pipelines that connect language models with APIs, structured workflows, and cloud services.
 
 ### MediaWiki Bridge
 
-FastAPI service that allows language model tools to retrieve structured knowledge directly from MediaWiki sources with validation and domain filtering.
-
-Repository  
-https://github.com/ariqserazi/mediawiki-bridge
+A FastAPI service that allows language model tools to retrieve structured knowledge directly from MediaWiki sources with validation and domain filtering.
 
 ### Trackwise
 
-Expense tracking application built with Flutter, gRPC, and PostgreSQL designed for fast personal finance tracking.
-
-Repository  
-https://github.com/ariqserazi/personal_expense_tracker
+A Flutter expense tracking application powered by gRPC and PostgreSQL focused on fast and structured personal finance tracking.
 
 ### MultiPDF Extractor
 
-Application that allows users to upload multiple PDFs and ask questions about their contents using embeddings and Gemini powered responses.
+An application that allows users to upload multiple PDFs and ask questions about their contents using embeddings, vector search, and Gemini powered responses.
 
-Repository  
+---
+
+## Core Stack
+
+**Frontend**
+
+Flutter, Dart, React, TypeScript
+
+**Backend**
+
+Python, FastAPI, Node.js, Express
+
+**Databases**
+
+PostgreSQL, DynamoDB
+
+**Cloud**
+
+AWS Lambda, API Gateway, Docker
+
+**AI Systems**
+
+LangChain, Gemini API, vector search pipelines, structured LLM workflows
+
+**Tools**
+
+Git, GitHub, VS Code, Postman
+
+---
+
+## Featured Repositories
+
+### MediaWiki Bridge  
+https://github.com/ariqserazi/mediawiki-bridge
+
+Infrastructure for source controlled knowledge retrieval from MediaWiki powered sites.
+
+### Trackwise  
+https://github.com/ariqserazi/personal_expense_tracker
+
+Expense tracking application built with Flutter, gRPC, and PostgreSQL.
+
+### MultiPDF Extractor  
 https://github.com/ariqserazi/multipdf_extractor
+
+Chat with multiple PDFs using embeddings, retrieval, and Gemini responses.
+
+### DataStructureProjects  
+https://github.com/ariqserazi/DataStructureProjects
+
+Java implementations of data structures and algorithms used for interview preparation.
+
+---
+
+## Current Focus
+
+• Daily data structures and algorithms practice  
+• Stronger backend and system design depth  
+• Improving project architecture and documentation  
+• Building AI automation tools with clear real world applications
 
 ---
 
 ## Connect
 
 Portfolio  
-https://ariqserazi.com  
+https://ariqserazi.com
 
 LinkedIn  
-https://linkedin.com/in/ariq-serazi  
+https://linkedin.com/in/ariq-serazi
 
 GitHub  
 https://github.com/ariqserazi
