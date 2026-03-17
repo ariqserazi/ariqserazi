@@ -79,6 +79,6 @@ Right now I am focused on strengthening core engineering skills, building strong
 
 | Platform | Link |
 |--------|------|
-| Portfolio | https://ariqserazi.com |
+| Portfolio | [https://ariqserazi.com](https://ariqserazi.github.io/) |
 | LinkedIn | https://linkedin.com/in/ariq-serazi |
 | GitHub | https://github.com/ariqserazi |
