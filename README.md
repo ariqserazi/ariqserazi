@@ -1,29 +1,29 @@
 {=html}
 <h1 align="center">
-```
+
 Hi, I'm Ariq Serazi
-```{=html}
+{=html}
 </h1>
-```
-```{=html}
+ 
+ {=html}
 <p align="center">
-```
+ 
 Software engineer from Rutgers University building AI automation
 systems, cloud applications, and developer tools.
-```{=html}
+ {=html}
 </p>
-```
-```{=html}
+ 
+ {=html}
 <p align="center">
-```
+ 
 `<a href="https://ariqserazi.com">`{=html}Portfolio`</a>`{=html} \|
 `<a href="#current-work">`{=html}Current Work`</a>`{=html} \|
 `<a href="#skills">`{=html}Skills`</a>`{=html} \|
 `<a href="#projects">`{=html}Projects`</a>`{=html} \|
 `<a href="#connect">`{=html}Connect`</a>`{=html}
-```{=html}
+ {=html}
 </p>
-```
+ 
 
 ------------------------------------------------------------------------
 
