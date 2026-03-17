@@ -31,92 +31,54 @@ Right now I am focused on strengthening core engineering skills, building strong
 
 ## What I'm Building
 
-### Amin AI
-
-Automation pipelines that connect language models with APIs, structured workflows, and cloud services.
-
-### MediaWiki Bridge
-
-A FastAPI service that allows language model tools to retrieve structured knowledge directly from MediaWiki sources with validation and domain filtering.
-
-### Trackwise
-
-A Flutter expense tracking application powered by gRPC and PostgreSQL focused on fast and structured personal finance tracking.
-
-### MultiPDF Extractor
-
-An application that allows users to upload multiple PDFs and ask questions about their contents using embeddings, vector search, and Gemini powered responses.
+| Project | Description |
+|--------|-------------|
+| **Amin AI** | Automation pipelines that connect language models with APIs, structured workflows, and cloud services |
+| **MediaWiki Bridge** | FastAPI service allowing language models to retrieve structured knowledge directly from MediaWiki sources |
+| **Trackwise** | Flutter expense tracking app powered by gRPC and PostgreSQL |
+| **MultiPDF Extractor** | Upload multiple PDFs and ask questions using embeddings, vector search, and Gemini |
 
 ---
 
 ## Core Stack
 
-**Frontend**
-
-Flutter, Dart, React, TypeScript
-
-**Backend**
-
-Python, FastAPI, Node.js, Express
-
-**Databases**
-
-PostgreSQL, DynamoDB
-
-**Cloud**
-
-AWS Lambda, API Gateway, Docker
-
-**AI Systems**
-
-LangChain, Gemini API, vector search pipelines, structured LLM workflows
-
-**Tools**
-
-Git, GitHub, VS Code, Postman
+| Area | Technologies |
+|-----|--------------|
+| Frontend | Flutter, Dart, React, TypeScript |
+| Backend | Python, FastAPI, Node.js, Express |
+| Databases | PostgreSQL, DynamoDB |
+| Cloud | AWS Lambda, API Gateway, Docker |
+| AI Systems | LangChain, Gemini API, vector search pipelines |
+| Tools | Git, GitHub, VS Code, Postman |
 
 ---
 
 ## Featured Repositories
 
-### MediaWiki Bridge  
-https://github.com/ariqserazi/mediawiki-bridge
-
-Infrastructure for source controlled knowledge retrieval from MediaWiki powered sites.
-
-### Trackwise  
-https://github.com/ariqserazi/personal_expense_tracker
-
-Expense tracking application built with Flutter, gRPC, and PostgreSQL.
-
-### MultiPDF Extractor  
-https://github.com/ariqserazi/multipdf_extractor
-
-Chat with multiple PDFs using embeddings, retrieval, and Gemini responses.
-
-### DataStructureProjects  
-https://github.com/ariqserazi/DataStructureProjects
-
-Java implementations of data structures and algorithms used for interview preparation.
+| Project | Description | Repository |
+|--------|-------------|-----------|
+| **MediaWiki Bridge** | Infrastructure for controlled knowledge retrieval from MediaWiki sites | https://github.com/ariqserazi/mediawiki-bridge |
+| **Trackwise** | Personal finance tracking built with Flutter and gRPC | https://github.com/ariqserazi/personal_expense_tracker |
+| **MultiPDF Extractor** | Chat with multiple PDFs using embeddings and Gemini | https://github.com/ariqserazi/multipdf_extractor |
+| **DataStructureProjects** | Java implementations of data structures and algorithms | https://github.com/ariqserazi/DataStructureProjects |
 
 ---
 
 ## Current Focus
 
-• Daily data structures and algorithms practice  
-• Stronger backend and system design depth  
-• Improving project architecture and documentation  
-• Building AI automation tools with clear real world applications
+| Focus Area | Description |
+|-----------|-------------|
+| Algorithms | Daily data structures and algorithm practice |
+| Backend | Improving system design and backend architecture |
+| Portfolio | Strengthening public project quality |
+| AI Systems | Building automation tools using structured LLM workflows |
 
 ---
 
 ## Connect
 
-Portfolio  
-https://ariqserazi.com
-
-LinkedIn  
-https://linkedin.com/in/ariq-serazi
-
-GitHub  
-https://github.com/ariqserazi
+| Platform | Link |
+|--------|------|
+| Portfolio | https://ariqserazi.com |
+| LinkedIn | https://linkedin.com/in/ariq-serazi |
+| GitHub | https://github.com/ariqserazi |
